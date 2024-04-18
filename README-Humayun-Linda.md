@@ -28,3 +28,7 @@ Am beginn muss man eingeben ob man einen Text verschlüsseln möchte, entschlüs
 
 ## Autorin
 Ich heiße Linda Humayun-Arfin und stuidere Mobile Software Development. Ich habe mein Programm Textverschlüsselung in der Readme verfasst. 
+
+## *Übungen*
+* [Exercise1](exercise1.md)
+*[Exercise2](exercise2.md)
